@@ -1,5 +1,0 @@
-D:\Projects\perth-code-dojo-3-typescript-garden\Garden\TypeScriptHTMLApp1\bin\VirtualGarden.dll
-D:\Projects\perth-code-dojo-3-typescript-garden\Garden\TypeScriptHTMLApp1\bin\VirtualGarden.pdb
-D:\Projects\perth-code-dojo-3-typescript-garden\Garden\TypeScriptHTMLApp1\obj\Debug\VirtualGarden.dll
-D:\Projects\perth-code-dojo-3-typescript-garden\Garden\TypeScriptHTMLApp1\obj\Debug\VirtualGarden.pdb
-D:\Projects\perth-code-dojo-3-typescript-garden\Garden\TypeScriptHTMLApp1\obj\Debug\VirtualGarden.csprojResolveAssemblyReference.cache

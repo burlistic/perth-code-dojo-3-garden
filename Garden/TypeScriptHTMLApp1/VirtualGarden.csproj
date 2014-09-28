@@ -17,6 +17,8 @@
     <IISExpressUseClassicPipelineMode />
   </PropertyGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="Items\flower.ts" />
+    <TypeScriptCompile Include="Items\weed.ts" />
     <Content Include="Index.html" />
     <TypeScriptCompile Include="positionalItem.ts" />
     <Content Include="Tests\Content\jasmine\jasmine.css" />
@@ -30,7 +32,7 @@
     <Content Include="Tests\Scripts\jasmine\console.js" />
     <Content Include="Tests\Scripts\jasmine\jasmine-html.js" />
     <Content Include="Tests\Scripts\jasmine\jasmine.js" />
-    <TypeScriptCompile Include="tree.ts" />
+    <TypeScriptCompile Include="Items\tree.ts" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>

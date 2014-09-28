@@ -6,10 +6,19 @@
         this.lastWatered = lastWatered;
 
         this.trees = new Array();
+        this.flowers = new Array();
+        this.weeds = new Array();
     }
     Garden.prototype.addTree = function (tree) {
         this.trees.push(tree);
-        //tree[0] = tree;
+    };
+
+    Garden.prototype.addFlower = function (flower) {
+        this.flowers.push(flower);
+    };
+
+    Garden.prototype.addWeed = function (weed) {
+        this.weeds.push(weed);
     };
     return Garden;
 })();
