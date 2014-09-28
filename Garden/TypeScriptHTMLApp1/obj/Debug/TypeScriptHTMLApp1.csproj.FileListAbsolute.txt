@@ -1,0 +1,5 @@
+D:\Projects\perth-code-dojo-3-typescript-garden\Garden\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll
+D:\Projects\perth-code-dojo-3-typescript-garden\Garden\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.pdb
+D:\Projects\perth-code-dojo-3-typescript-garden\Garden\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.csprojResolveAssemblyReference.cache
+D:\Projects\perth-code-dojo-3-typescript-garden\Garden\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.dll
+D:\Projects\perth-code-dojo-3-typescript-garden\Garden\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.pdb
