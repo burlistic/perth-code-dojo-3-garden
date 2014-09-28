@@ -29,10 +29,15 @@
     describe("when a tree is added to a garden", function () {
 
         garden = new Garden(10, 50, "clay", "2014/9/28");
-        garden.addTree(new Tree());
+        garden.addTree(new Tree(1, 2));
 
         it("should have 1 tree", function () {
             expect(garden.trees.length).toEqual(1);
+        });
+
+        it("should contain the correct cordinates", function () {
+            expect(garden.trees[0].x).toEqual(1);
+            expect(garden.trees[0].y).toEqual(2);
         });
 
     });

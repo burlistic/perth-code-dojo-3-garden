@@ -6,8 +6,8 @@
 };
 var Tree = (function (_super) {
     __extends(Tree, _super);
-    function Tree() {
-        _super.apply(this, arguments);
+    function Tree(x, y) {
+        _super.call(this, x, y);
     }
     return Tree;
 })(PositionalItem);

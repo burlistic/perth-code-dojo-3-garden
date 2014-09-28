@@ -1,5 +1,7 @@
 ﻿var PositionalItem = (function () {
-    function PositionalItem() {
+    function PositionalItem(x, y) {
+        this.x = x;
+        this.y = y;
     }
     return PositionalItem;
 })();
