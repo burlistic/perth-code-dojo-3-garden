@@ -31,7 +31,7 @@
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="app.ts" />
+    <TypeScriptCompile Include="garden.ts" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Tests\SpecRunner.html" />

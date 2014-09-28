@@ -1,8 +1,8 @@
 ﻿var Garden = (function () {
-    function Garden() {
+    function Garden(width, height) {
         this.width = 10;
         this.height = 50;
     }
     return Garden;
 })();
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=garden.js.map
