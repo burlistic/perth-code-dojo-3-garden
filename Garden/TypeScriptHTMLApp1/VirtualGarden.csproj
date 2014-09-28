@@ -18,8 +18,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Index.html" />
+    <TypeScriptCompile Include="positionalItem.ts" />
     <Content Include="Tests\Content\jasmine\jasmine.css" />
     <Content Include="Tests\Content\jasmine\jasmine_favicon.png" />
+    <Content Include="Tests\GardenSpecs.js" />
     <Content Include="Tests\Scripts\jasmine-samples\Player.js" />
     <Content Include="Tests\Scripts\jasmine-samples\PlayerSpec.js" />
     <Content Include="Tests\Scripts\jasmine-samples\Song.js" />
@@ -28,6 +30,7 @@
     <Content Include="Tests\Scripts\jasmine\console.js" />
     <Content Include="Tests\Scripts\jasmine\jasmine-html.js" />
     <Content Include="Tests\Scripts\jasmine\jasmine.js" />
+    <TypeScriptCompile Include="tree.ts" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>

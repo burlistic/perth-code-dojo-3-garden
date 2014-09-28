@@ -8,7 +8,7 @@
 
     describe("when a garden is created", function () {
 
-        garden = new Garden(50, 10, "clay", "2014/9/28");
+        garden = new Garden(10, 50, "clay", "2014/9/28");
 
         it("should have the correct dimensions", function () {
             expect(garden.width).toEqual(10);
@@ -22,6 +22,17 @@
         // TODO - convert to real date object
         it("should contain the date last watered", function () {
             expect(garden.lastWatered).toEqual("2014/9/28");
+        });
+
+    });
+
+    describe("when a tree is added to a garden", function () {
+
+        garden = new Garden(10, 50, "clay", "2014/9/28");
+        garden.addTree(new Tree());
+
+        it("should have 1 tree", function () {
+            expect(garden.trees.length).toEqual(1);
         });
 
     });
