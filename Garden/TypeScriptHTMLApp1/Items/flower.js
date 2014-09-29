@@ -9,6 +9,9 @@ var Flower = (function (_super) {
     function Flower(x, y) {
         _super.call(this, x, y);
     }
+    Flower.prototype.mulch = function () {
+        return true;
+    };
     return Flower;
 })(PositionalItem);
 //# sourceMappingURL=flower.js.map

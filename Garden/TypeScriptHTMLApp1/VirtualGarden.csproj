@@ -19,6 +19,7 @@
   <ItemGroup>
     <TypeScriptCompile Include="Items\flower.ts" />
     <TypeScriptCompile Include="Items\weed.ts" />
+    <TypeScriptCompile Include="IMulchable.ts" />
     <Content Include="Index.html" />
     <TypeScriptCompile Include="positionalItem.ts" />
     <Content Include="Tests\Content\jasmine\jasmine.css" />

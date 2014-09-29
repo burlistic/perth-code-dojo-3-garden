@@ -20,6 +20,14 @@
     Garden.prototype.addWeed = function (weed) {
         this.weeds.push(weed);
     };
+
+    Garden.prototype.mulchGarden = function () {
+        this.mulchItems(this.trees);
+        this.mulchItems(this.flowers);
+    };
+
+    Garden.prototype.mulchItems = function (item) {
+    };
     return Garden;
 })();
 //# sourceMappingURL=garden.js.map

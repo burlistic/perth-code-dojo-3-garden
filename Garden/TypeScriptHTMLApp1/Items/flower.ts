@@ -1,5 +1,11 @@
-﻿class Flower extends PositionalItem {
-
+﻿class Flower extends PositionalItem
+{
     constructor(x: number, y: number) { super(x, y); }
+
+    lastMulched: string;
+
+    mulch() {
+        return true;
+    }
     
 }

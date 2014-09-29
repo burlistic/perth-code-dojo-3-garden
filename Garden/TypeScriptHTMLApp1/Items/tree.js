@@ -9,6 +9,9 @@ var Tree = (function (_super) {
     function Tree(x, y) {
         _super.call(this, x, y);
     }
+    Tree.prototype.mulch = function () {
+        return true;
+    };
     return Tree;
 })(PositionalItem);
 //# sourceMappingURL=tree.js.map

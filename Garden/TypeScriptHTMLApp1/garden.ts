@@ -29,5 +29,14 @@
     addWeed(weed: Weed) {
         this.weeds.push(weed);
     }
+
+    mulchGarden() {
+        this.mulchItems(this.trees);
+        this.mulchItems(this.flowers);
+    }
+
+    private mulchItems(item: Mulchable[]) {
+        
+    }
  
 }
