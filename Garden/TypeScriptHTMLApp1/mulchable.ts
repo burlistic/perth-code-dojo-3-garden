@@ -1,6 +1,6 @@
 ﻿interface Mulchable {
     
     lastMulched: string; // TODO - date?
-    //() : boolean;
+    //() : boolean; - TODO - get signature to work
 
 }

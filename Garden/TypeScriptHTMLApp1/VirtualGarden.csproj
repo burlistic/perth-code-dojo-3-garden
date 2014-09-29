@@ -19,11 +19,13 @@
   <ItemGroup>
     <TypeScriptCompile Include="Items\flower.ts" />
     <TypeScriptCompile Include="Items\weed.ts" />
-    <TypeScriptCompile Include="IMulchable.ts" />
+    <TypeScriptCompile Include="mulchable.ts" />
     <Content Include="Index.html" />
     <TypeScriptCompile Include="positionalItem.ts" />
+    <TypeScriptCompile Include="japaneseGarden.ts" />
     <Content Include="Tests\Content\jasmine\jasmine.css" />
     <Content Include="Tests\Content\jasmine\jasmine_favicon.png" />
+    <Content Include="Tests\JapaneseGardenSpecs.js" />
     <Content Include="Tests\GardenSpecs.js" />
     <Content Include="Tests\Scripts\jasmine-samples\Player.js" />
     <Content Include="Tests\Scripts\jasmine-samples\PlayerSpec.js" />
