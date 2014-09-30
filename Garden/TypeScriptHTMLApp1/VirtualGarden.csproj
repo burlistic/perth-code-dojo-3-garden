@@ -20,11 +20,16 @@
     <TypeScriptCompile Include="Items\flower.ts" />
     <TypeScriptCompile Include="Items\weed.ts" />
     <TypeScriptCompile Include="mulchable.ts" />
+    <TypeScriptCompile Include="modernLowMaintenanceGarden.ts" />
+    <TypeScriptCompile Include="AreaItem.ts" />
     <Content Include="Index.html" />
     <TypeScriptCompile Include="positionalItem.ts" />
     <TypeScriptCompile Include="japaneseGarden.ts" />
+    <TypeScriptCompile Include="Items\ornateBridge.ts" />
+    <TypeScriptCompile Include="Items\artificalLawn.ts" />
     <Content Include="Tests\Content\jasmine\jasmine.css" />
     <Content Include="Tests\Content\jasmine\jasmine_favicon.png" />
+    <Content Include="Tests\ModernLowMaintenanceGardenSpecs.js" />
     <Content Include="Tests\JapaneseGardenSpecs.js" />
     <Content Include="Tests\GardenSpecs.js" />
     <Content Include="Tests\Scripts\jasmine-samples\Player.js" />
